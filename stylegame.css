@@ -4,11 +4,10 @@
 /* Body and Notice styling
 -------------------------------------------------------------- */
 body {
-  color: #b6b5ca;
+  background-image: url("background6.jpg");
   font-family: 'Arial', sans-serif;
   margin: 0;
   text-align: center;
-  background-color:#7CFC00;
 }
 
 h5 {
